@@ -1,0 +1,10 @@
+{
+  "name": "facturillo",
+  "displayName": "facturillo",
+  "version": "1.0.0",
+  "description": "Ask your facturillo receipts (facturas) anything: spending totals, stores, products and receipt details from your real receipt data, read-only, through the facturillo connector.",
+  "author": { "name": "facturillo Inc.", "url": "https://facturillo.com" },
+  "homepage": "https://facturillo.com/ai",
+  "license": "MIT",
+  "keywords": ["receipts", "facturas", "spending", "expenses", "Panama", "DGI"]
+}

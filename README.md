@@ -16,8 +16,16 @@ The `ask-your-receipts` skill tells Claude which facturillo tool answers which q
 
 ## What it needs
 
-A facturillo account (facturillo.com). The data features need an active facturillo plan; a free account can only verify the connection.
+A facturillo account (facturillo.com). The data features need an active facturillo plan. A free account can only verify the connection.
 
 ## Data
 
-The plugin sends nothing on its own. Every question Claude answers with your data goes through the facturillo connector at `mcp.facturillo.com`, which reads your receipt data for that question only and never writes to your account. The connector is operated by facturillo Inc. under the facturillo privacy policy at https://facturillo.com/privacy (section "AI Assistant Connections"). Support: info@facturillo.com. Documentation: https://facturillo.com/ai.
+The plugin sends nothing on its own. Every question Claude answers with your data goes through the facturillo connector at `mcp.facturillo.com`, which reads your receipt data for that question only and never writes to your account. The connector is operated by facturillo Inc.
+
+## Privacy policy
+
+https://facturillo.com/privacy (English: https://facturillo.com/en/privacy). The section "AI Assistant Connections" covers this plugin and its connector: what is shared with Claude, that access is read-only, and how to revoke it.
+
+## Support
+
+info@facturillo.com · Documentation: https://facturillo.com/ai

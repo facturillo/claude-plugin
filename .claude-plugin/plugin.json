@@ -7,6 +7,9 @@
   "author": { "name": "facturillo Inc.", "url": "https://facturillo.com" },
   "homepage": "https://facturillo.com/ai",
   "privacyPolicyUrl": "https://facturillo.com/privacy",
+  "termsOfServiceUrl": "https://facturillo.com/terms",
+  "documentationUrl": "https://facturillo.com/ai",
+  "supportUrl": "https://facturillo.com/ayuda",
   "repository": "https://github.com/facturillo/claude-plugin",
   "license": "MIT",
   "keywords": ["receipts", "facturas", "spending", "expenses", "Panama", "DGI"]
